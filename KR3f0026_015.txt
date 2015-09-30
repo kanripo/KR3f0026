@@ -1,0 +1,70 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 歷算全書
+#+DATE: 2015-08-24 23:10:09.760057
+#+PROPERTY: ID KR3f0026
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
+<pb:KR3f0026_WYG_015-1a>¶
+¶
+<pb:KR3f0026_WYG_015-2a>¶
+¶
+<pb:KR3f0026_WYG_015-3a>¶
+¶
+<pb:KR3f0026_WYG_015-4a>¶
+¶
+<pb:KR3f0026_WYG_015-5a>¶
+¶
+<pb:KR3f0026_WYG_015-6a>¶
+¶
+<pb:KR3f0026_WYG_015-7a>¶
+¶
+<pb:KR3f0026_WYG_015-8a>¶
+¶
+<pb:KR3f0026_WYG_015-9a>¶
+¶
+<pb:KR3f0026_WYG_015-10a>¶
+¶
+<pb:KR3f0026_WYG_015-11a>¶
+¶
+<pb:KR3f0026_WYG_015-12a>¶
+¶
+<pb:KR3f0026_WYG_015-13a>¶
+¶
+<pb:KR3f0026_WYG_015-14a>¶
+¶
+<pb:KR3f0026_WYG_015-15a>¶
+¶
+<pb:KR3f0026_WYG_015-16a>¶
+¶
+<pb:KR3f0026_WYG_015-17a>¶
+¶
+<pb:KR3f0026_WYG_015-18a>¶
+¶
+<pb:KR3f0026_WYG_015-19a>¶
+¶
+<pb:KR3f0026_WYG_015-20a>¶
+¶
+<pb:KR3f0026_WYG_015-21a>¶
+¶
+<pb:KR3f0026_WYG_015-22a>¶
+¶
+<pb:KR3f0026_WYG_015-23a>¶
+¶
+<pb:KR3f0026_WYG_015-24a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR3f0026_WYG_015-24b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　厯算全書卷十五¶
